@@ -42,7 +42,7 @@ the Space bar will always reset the timer to it's current default value.
 
 you can change the default value by typing in a new duration in whole minutes, and pressing Enter.
 
-you can also ignore the default value entirely, and type in a duration in whole minutes, and then pressing Space.
+you can also ignore the default value entirely, and type in a duration in whole minutes, and then press Space to immediately start a new timer.
 
 there are a number of live adjustments that can be made using the arrow keys, which are explained on the timer screen itself.
 
