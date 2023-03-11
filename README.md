@@ -61,7 +61,7 @@ Pressing T will toggle the time of day display
 
 Mouse Operation (Preset button mode)
 ---
-if you prefer to use your mouse, drag the mouse to the top of the screen, and select a preset duration to immediately start the timer using that duration
+if you prefer to use your mouse, move the mouse to the top of the screen, and select a preset duration to immediately start the timer using that duration
 
 Updating the preset buttons
 
