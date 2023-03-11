@@ -50,6 +50,15 @@ remember that if you hold down the control key, all adjustments made with the ar
 
 you can also however correct for starting a timer a few seconds late, or you can pre-empt a future countdown that you wish to start at a specific time, by nudging the start time into the future, which will give a preview-countdown to the actual countdown.
 
+Progress Bar Graph
+---
+pressing B will toggle a progress bar display under the countdown timer
+
+Time of day display
+---
+
+Pressing T will toggle the time of day display
+
 Mouse Operation (Preset button mode)
 ---
 if you prefer to use your mouse, drag the mouse to the top of the screen, and select a preset duration to immediately start the timer using that duration
