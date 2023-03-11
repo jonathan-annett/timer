@@ -46,7 +46,9 @@ you can also ignore the default value entirely, and type in a duration in whole 
 
 there are a number of live adjustments that can be made using the arrow keys, which are explained on the timer screen itself.
 
-remember that if you hold down the control key, all adjustments made with the arrow keys are for 1 minute, instead of the default 1 second nudge that can be applied to a running timer. The main purpose of these adjustments is to fine tune the end time, if you have a "hard out". you can also however correct for starting a timer a few seconds late, or (if needed, you can pre-empt a future countdown that you wish to start at a specific time, by nudging the start time into the future, which will give a preview-countdown to the actual countdown.
+remember that if you hold down the control key, all adjustments made with the arrow keys are for 1 minute, instead of the default 1 second nudge that can be applied to a running timer. The main purpose of these adjustments is to fine tune the end time, if you have a "hard out". 
+
+you can also however correct for starting a timer a few seconds late, or (if needed, you can pre-empt a future countdown that you wish to start at a specific time, by nudging the start time into the future, which will give a preview-countdown to the actual countdown.
 
 Mouse Operation (Preset button mode)
 ---
