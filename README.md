@@ -3,7 +3,7 @@
 Single Monitor Mode
 ---
 
-option 1 - view [online version](https://jonathan-annett.github.io/timer/timer.html) - runs in browser
+option 1 - view [online version](https://jonathan-annett.github.io/timer/timer.html) - runs in browser ( if unavailable, try the [alternate site](https://timer.1mb.site) )
 
    * drag browser window to appropriate monitor and press S to enter Single Monitor Mode
   
