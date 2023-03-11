@@ -63,6 +63,22 @@ in message Mode, a 1 minute warning message is displayed above the countdown sug
 Custom Messages
 ---
 
-to edit a custom message, Press the "C" key, and type in your message, folowed by Enter
+custom messages can be used to display a message above the current countdown timer
+
+To edit a custom message, Press the "C" key, and type in your message, folowed by the Enter key
+
 Pressing "C" again will remove the custom message.
+
+Custom Styling
+---
+
+If you're a web developer, and understand how to edit CSS files, you can customize the display locally (changes are saved to the local pc)
+
+to bring up the editor, press Ctrl-S.
+
+Pressing Ctrl-S again will close the editor
+
+Note: if you mess things up, the default styling can be restored by using Shift-Ctrl-S
+
+
 
