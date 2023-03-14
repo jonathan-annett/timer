@@ -12,9 +12,10 @@ option 2 - Download and install windows [setup](Setup.exe) - runs as standalone 
    * starts full screen on your default montitor
    * press S to enter Single Monitor Mode
 
-
 The main idea behind this mode is to quickly get a countdown running, without having to have multiple monitors running.
-Since it's intended to directly drive a countdown display, minimal information (ie clutter) is show, and it's intended you drive it using the keyboard or mouse.
+Since it's intended to directly drive a countdown display, minimal information (ie clutter) is show, and it's intended you drive it using the keyboard or mouse. 
+
+while in this mode, press the "P" key will switch between single monitor mode and control screen mode, and moving the mouse to the top of the display will reveal the preset and helper buttons.
 
 
 Dual Monitor Mode
