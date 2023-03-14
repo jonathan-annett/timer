@@ -7,7 +7,7 @@ option 1 - view [online version](https://jonathan-annett.github.io/timer/timer.h
 
    * drag browser window to appropriate monitor and press S to enter Single Monitor Mode
   
-option 2 - Download and install windows [setup](Setup.exe) - runs as standalone app (deployed as a full screen nw.js app)  
+option 2 - Download and install windows [setup](https://jonathan-annett.github.io/timer/Setup.exe) - runs as standalone app (deployed as a full screen nw.js app)  
 
    * starts full screen on your default montitor
    * press S to enter Single Monitor Mode
