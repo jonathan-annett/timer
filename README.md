@@ -59,6 +59,20 @@ Time of day display
 
 Pressing T will toggle the time of day display
 
+
+Pause Mode
+---
+
+pressing " (otherwise know as double quote - usually requires shift) will toggle pause mode 
+
+while paused, the main display freezes and the end time will be advanced - since pausing the timer means it will finish later.
+
+note that pressing the space bar while paused will restart the timer, consistent with the idea that press the space bar always starts the timer.
+
+if you have paused the display, the acumulated time spent whilst paused is displayed below the total time display - and you can clear this number by pressing the single quote key ('), this has the effect of completely undoing the pause, and forcing the timer to complete at it's expected end time.
+
+
+
 Mouse Operation (Preset button mode)
 ---
 if you prefer to use your mouse, move the mouse to the top of the screen, and select a preset duration to immediately start the timer using that duration
