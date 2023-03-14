@@ -67,7 +67,7 @@ pressing " (otherwise know as double quote - usually requires shift) will toggle
 
 while paused, the main display freezes and the end time will be advanced - since pausing the timer means it will finish later.
 
-note that pressing the space bar while paused will restart the timer, consistent with the idea that press the space bar always starts the timer.
+note that pressing the space bar while paused will restart the timer, consistent with the idea that pressing the space bar always starts the timer.
 
 if you have paused the display, the acumulated time spent whilst paused is displayed below the total time display - and you can clear this number by pressing the single quote key ('), this has the effect of completely undoing the pause, and forcing the timer to complete at it's expected end time.
 
