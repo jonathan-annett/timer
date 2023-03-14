@@ -109,5 +109,24 @@ Pressing Ctrl-S again will close the editor
 
 Note: if you mess things up, the default styling can be restored by using Shift-Ctrl-S
 
+Full list of keyboard commands
+===
 
+**keys for any screen**
+* ```F``` Toggle full screen mode for the currently focussed window
+* ```Escape``` Exit full screen mode in the current window
+* ```T``` Toggle the display of the current time on all screens
+* ```B``` Toggle the display of the progress bar on all screens
 
+**keys for the control window, or single monitor mode window**
+* ```S``` Enter Single Monitor Mode. This is a full screen mode that looks like a remote display screen, but allows full control via the keyboard, using the same keyboard commands as the controller screen. you can also use the mouse for most functions, by moving the mouse up and revealing the buttons.
+* ```P``` Toggles between the controller screen and the presenter view mode. presenter view is almost identical to single monitor mode. the only difference is that in presenter view mode, the mouse operation is disabled. note that pressing P when you are in single monitor mode will exit single monitor mode, and return you to controller mode. this basically means you can toggle between single monitor mode and controller mode, by pressing P and S.
+
+* ```Space``` Restart the timer, using the duration displayed in the lower right hand corner of the screen. this will either be the default duration (it will be white), or one you have just entered using the number keys (in which case it will be green)
+
+* ```0``` thru ```9``` use the number keys to enter a duration in minutes. whilst you can use the colon  ```:``` key to enter something like ```1``` ```:``` ```3``` ```0```, the timer will understand ```9``` ```0``` to mean the same thing. (it will display it in the long hand format, regardless of what you type)
+
+* ```Enter``` will take the a duration you have just entered, and save it as the current default. (as opposed to ```Space```) which will immedately start a timer using that value
+* ```.``` if you feel the need to enter less that 1 minute or a fractional minute duration, enter it as a decimal value, for example ```4``` ```.``` ```5``` will translate to 4 minutes and 30 seconds. whilst this may seem counter intuitive, this decision was made deliberately, as in most cases the timer will be used for multiples of minutes, and to avoid confusion, the colon ```:``` is always used to delineate hours and minutes. not to worry as you can still enter durations like ```1``` ```:``` ```3``` ```0``` ```.``` ```5``` which would be identical to entering ```9``` ```0``` ```.``` ```5``` (1 hour 30 minutes 30 seconds)
+* ```"``` Pause/Resume the timer. the end time will automatically be updated in real time, indicating when the countdown will actually end, if you were to resume it immediately. you can do this to make the clock stop, and the restart when you have reached a desired future hard out time,
+* ```'``` if you've previously paused the timer, or are currently pausing the timer, this will undo all pauses, reverting to the original duration you selected, and restore the countdown to the correct value.
