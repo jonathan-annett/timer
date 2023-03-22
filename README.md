@@ -3,14 +3,13 @@
 Single Monitor Mode
 ---
 
-option 1 - view [online version](https://jonathan-annett.github.io/timer/timer.html) - runs in browser ( if unavailable, try the [alternate site](https://timer.1mb.site) )
+option 1 - open [online version](https://timer.1mb.site) - in browser (stable, recent version) 
+
+option 2 - open [development preview version](https://jonathan-annett.github.io/timer/timer.html) - in browser (bleeding edge, development testing version)
+
+
 
    * drag browser window to appropriate monitor and press S to enter Single Monitor Mode
-  
-option 2 - Download and install windows [setup](https://jonathan-annett.github.io/timer/Setup.exe) - runs as standalone app (deployed as a full screen nw.js app)  
-
-   * starts full screen on your default montitor
-   * press S to enter Single Monitor Mode
 
 The main idea behind this mode is to quickly get a countdown running, without having to have multiple monitors running.
 Since it's intended to directly drive a countdown display, minimal information (ie clutter) is show, and it's intended you drive it using the keyboard or mouse. 
@@ -21,20 +20,23 @@ while in this mode, press the "P" key will switch between single monitor mode an
 Dual Monitor Mode
 ---
 
-option 1 - view [online version](https://jonathan-annett.github.io/timer/timer.html) - runs in browser
+option 1 - open [online version](https://timer.1mb.site) - in browser (stable, recent version) 
+
+option 2 - open [development preview version](https://jonathan-annett.github.io/timer/timer.html) - in browser (bleeding edge, development testing version) 
+
 
    * drag browser window to appropriate monitor 
    * open the remote display window by clicking the link in the lower left hand corner
    * drag the remote window to the approprate monitor, and resize as needed  (or just press F to make it full screen )
    * click on the original browser window, and press F to make that fullscreen (if needed) 
   
-option 2 - run the windows app (see above) 
+ 
+Versions
+---
 
-   * starts full screen on your default montitor
-   * open the remote display window by clicking the link in the lower left hand corner
-   * drag the remote window to the approprate monitor, and resize as needed  (or just press F to make it full screen )
-   * click back on the fullscreen app, as it needs to have focus in order to control the timer.
+The online version (see above) is basically a copy of this repository on a static site.
 
+The development preview version has pending features being developed, prior to them being pushed to the stable version. Whilst you are welcome to play around with it, it's not intended to be used in any situation where you need to work reliably.  
 
 Keyboard operation
 ---
