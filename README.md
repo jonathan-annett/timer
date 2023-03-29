@@ -141,11 +141,11 @@ Part of the rationale behind the duration being enterered as minutes and fractio
 
 Since most external number keypads have ```Tab```, ```Enter```, ```/``` and ```*``` keys, these keys can be used.
 
-```Tab``` is used in the same way that ```Space``` is used  - to restart the timer
+```*``` is used in the same way that ```Space``` is used  - to restart the timer
 
 ```/``` is used to toggle pause mode (same as ```"```)
 
-```*``` is used to remove any paused time (same as ```'```)
+```Tab``` is used to remove any paused time (same as ```'```)
 
 You don't need to do anything special to enable this mode, just start using the keys
 
