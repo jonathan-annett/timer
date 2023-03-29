@@ -132,3 +132,20 @@ Full list of keyboard commands
 * ```.``` If you feel the need to enter less than 1 minute or a fractional minute duration, enter it as a decimal value, for example ```4``` ```.``` ```5``` will translate to 4 minutes and 30 seconds. whilst this may seem counter intuitive, this decision was made deliberately, as in most cases the timer will be used for multiples of minutes, and to avoid confusion, the colon ```:``` is always used to delineate hours and minutes. not to worry as you can still enter durations like ```1``` ```:``` ```3``` ```0``` ```.``` ```5``` which would be identical to entering ```9``` ```0``` ```.``` ```5``` (1 hour 30 minutes 30 seconds)
 * ```"``` Pause/Resume the timer. the end time will automatically be updated in real time, indicating when the countdown will actually end, if you were to resume it immediately. you can do this to make the clock stop, and then restart when you have reached a desired future hard out time,
 * ```'``` if you've previously paused the timer, or are currently pausing the timer, this will undo all pauses, reverting to the original duration you selected, and restore the countdown to the correct value.
+
+**Number keypad operation**
+
+If you happen to have an external number keypad, it can be used to control most aspects of the timer.
+
+Part of the rationale behind the duration being enterered as minutes and fractional minutes is to allow this mode.
+
+Since most external number keypads have ```Tab```, ```Enter```, ```/``` and ```*``` keys, these keys can be used.
+
+```Tab``` is used in the same way that ```Space``` is used  - to restart the timer
+
+```/``` is used to toggle pause mode (same as ```"```)
+
+```*``` is used to remove any paused time (same as ```'```)
+
+You don't need to do anything special to enable this mode, just start using the keys
+
