@@ -83,7 +83,7 @@ if you prefer to use your mouse, move the mouse to the top of the screen, and se
 Updating the preset buttons
 ---
 
-to update a preset button, you can type in a new duration, press enter (making it the current default), then press one of the preset buttons while holding down the shift key.
+to update a preset button, you can type in a new duration, then press one of the preset buttons while holding down the shift key.
 
 Messages
 ---
