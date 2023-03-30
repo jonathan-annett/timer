@@ -22,7 +22,7 @@ Dual Monitor Mode
 
 option 1 - open [online version](https://timer.1mb.site) - in browser (stable, recent version) 
 
-option 2 - open [development preview version](https://jonathan-annett.github.io/timer/timer.html) - in browser (bleeding edge, development testing version) 
+option 2 - open [development preview version](https://jonathan-annett.github.io/timer/timer.html) - in browser (bleeding edge, [development](roadmap.md) testing version) 
 
 
    * drag browser window to appropriate monitor 
