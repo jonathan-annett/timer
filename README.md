@@ -111,6 +111,19 @@ Pressing Ctrl-S again will close the editor
 
 Note: if you mess things up, the default styling can be restored by using Shift-Ctrl-S
 
+Video Assist Mode
+---
+
+This mode is used to syncronize a countdown start to a past event, based on frames captured from a webcam, or any compatible video capture source. 
+
+Pressing ```V``` will enable video assist mode. This will begin grabbing frames at the rate of 1 frame per second from the first available video capture source (use ```Shift```+```V``` to select the next video source - repeat till you find the one you need) 
+
+Once in video assist mode, pressing ```V``` toggles the display of the live preview and captured start frame images. To exit this mode, and stop video capturing,  use ```Ctrl```+```Shift```+```V``` which will free also up the frame memory.
+
+```Ctrl```-```V``` toggles "Video Assist Auto Zoom", which displays the captured start frame full screen, whenever a timer is started or adjusted using the left and right arrow keys. after 2 seconds of no key presses, the screen revert to normal.  
+
+up to 5 minutes of frames (300 frames at 1 fps) are keep in memory, until you start a countdown. when a countdown has been started in video capture mode, an addition 5 minutes of frames are retained (giving a 10 minute window of frames centered around the last start time). this effectively means there will be up to 15 minutes of frames in memory. (5 + 5 for the start time window, and 5 for the most recent 5 minutes, in case you happen to restart it again). This means you can safely leave the timer in video assist mode, without running out of memory. (depending on camera, it adds up to about 1 GB of memory) 
+
 Full list of keyboard commands
 ===
 
