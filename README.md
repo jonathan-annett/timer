@@ -124,6 +124,12 @@ Once in video assist mode, pressing ```V``` toggles the display of the live prev
 
 up to 5 minutes of frames (300 frames at 1 fps) are keep in memory, until you start a countdown. when a countdown has been started in video capture mode, an addition 5 minutes of frames are retained (giving a 10 minute window of frames centered around the last start time). this effectively means there will be up to 15 minutes of frames in memory. (5 + 5 for the start time window, and 5 for the most recent 5 minutes, in case you happen to restart it again). This means you can safely leave the timer in video assist mode, without running out of memory. (depending on camera, it adds up to about 1 GB of memory) 
 
+Window/Screen Capture Assist Mode
+---
+
+This is effectively the same thing as Video Assist Mode, but uses a local screen as the video capture source. use ```Shift```+```W``` to select a window for the capture source. Note: once the screen has been selected and capturing has started, you'll need to "hide" the banner that banner displays, in order for keyboard operation to work properly. 
+
+
 Full list of keyboard commands
 ===
 
