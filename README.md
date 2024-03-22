@@ -127,7 +127,7 @@ up to 5 minutes of frames (300 frames at 1 fps) are keep in memory, until you st
 Window/Screen Capture Assist Mode
 ---
 
-This is effectively the same thing as Video Assist Mode, but uses a local screen as the video capture source. use ```Shift```+```W``` to select a window for the capture source. Note: once the screen has been selected and capturing has started, you'll need to "hide" the banner that banner displays, in order for keyboard operation to work properly. 
+This is effectively the same thing as Video Assist Mode, but uses a local screen as the video capture source. use ```Shift```+```W``` to select a window for the capture source. Note: once the screen has been selected and capturing has started, you'll need to "Tab Back to the browser window" and then "hide" the capture notification banner, in order for keyboard operation to work properly. 
 
 
 Full list of keyboard commands
