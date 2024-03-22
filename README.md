@@ -120,7 +120,7 @@ Pressing ```V``` will enable video assist mode. This will begin grabbing frames 
 
 Once in video assist mode, pressing ```V``` toggles the display of the live preview and captured start frame images. To exit this mode, and stop video capturing,  use ```Ctrl```+```Shift```+```V``` which will free also up the frame memory.
 
-```Ctrl```-```V``` toggles "Video Assist Auto Zoom", which displays the captured start frame full screen, whenever a timer is started or adjusted using the left and right arrow keys. after 2 seconds of no key presses, the screen revert to normal.  
+```Ctrl```-```V``` toggles "Video Assist Auto Zoom", which displays the captured start frame full screen, whenever a timer is started or adjusted using the left and right arrow keys. after 2 seconds of no key presses, the screen revert to normal. Note that if you use ```Ctrl```-```V``` without having restarted the timer (ie when no start frame has been captured), a full screen live view will be displayed continuously. you can then either restart the timer, or press ```Ctrl```+```V``` to exit the full screen view.
 
 up to 5 minutes of frames (300 frames at 1 fps) are keep in memory, until you start a countdown. when a countdown has been started in video capture mode, an addition 5 minutes of frames are retained (giving a 10 minute window of frames centered around the last start time). this effectively means there will be up to 15 minutes of frames in memory. (5 + 5 for the start time window, and 5 for the most recent 5 minutes, in case you happen to restart it again). This means you can safely leave the timer in video assist mode, without running out of memory. (depending on camera, it adds up to about 1 GB of memory) 
 
